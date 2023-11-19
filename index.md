@@ -10,5 +10,7 @@ User may request account deletion; see section below.
 Users may request account deletion inside the app in the "Account" tab.
 In case the user cannot find the deletion button or the deletion failed, please contact utoappia@gmail.com
 
+Please keep in mind that upon account deletion, credits stored within that account will be gone as well.
+
 # Contact
 utoappia@gmail.com
