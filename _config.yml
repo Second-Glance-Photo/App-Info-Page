@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Second Glance Photo
+show_downloads: false
+github:
+  is_project_page: false
