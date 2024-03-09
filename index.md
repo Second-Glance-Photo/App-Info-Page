@@ -1,5 +1,7 @@
 ## About
-Second Glance Photo allows users to get additional insights from their photos
+Excite your followers EVERY TIME!🔥<br />
+Determine your best photos using Second Glance 📸<br />
+Get deeper insights into your photos and share ONLY your BEST.😎
 
 ## Download
  - [iOS (Apple App Store)](https://apps.apple.com/app/second-glance-photo/id6472119542)
