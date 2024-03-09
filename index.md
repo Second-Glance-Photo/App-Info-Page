@@ -1,5 +1,3 @@
-# Second Glance Photo
-
 ## About
 Second Glance Photo allows users to get additional insights from their photos
 
