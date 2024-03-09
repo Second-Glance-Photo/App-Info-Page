@@ -11,15 +11,15 @@ Second Glance Photo allows users to get additional insights from their photos
 ### Photo
 Users upload photos to our server for analysis.
 
-The photos are deleted immediately once the analysis is done.
+The photos are deleted immediately once the analysis are done.
 ### Analysis Result
 Results are kept for up to 3 days and are completely removed afterwards.
 ### User Account
-Users may create account to purchase and store analysis credits.
+Users may create accounts to purchase and store analysis credits.
 
 We only collect and store email address for authentication purpose and do not share personal info to any third parties.
 
-User may request account deletion; see below.
+Users may request account deletion; see below.
 
 ## Account Deletion
 Users may request account deletion inside the app, under the "Account" tab.
@@ -30,3 +30,6 @@ Upon account deletion, credits stored within that account will be gone as well.
 
 ## Contact
 [utoappia@gmail.com](mailto:utoappia@gmail.com?subject=Second%20Glance%20Photo%20-%20Support%20Page)
+
+## Links
+[Visit Our Facebook Page](https://www.facebook.com/profile.php?id=61556597322177)
