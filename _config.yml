@@ -1,5 +1,7 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: Second Glance Photo
+description: Unlock Vital Insights from Your Photos
+logo: /app_icon.png
 show_downloads: false
 github:
   is_project_page: false
