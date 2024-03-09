@@ -17,7 +17,7 @@ Results are kept for up to 3 days and are completely removed afterwards.
 ### User Account
 Users may create account to purchase and store analysis credits.
 
-We only collect and store email address for authentication purpose and does not share personal info to any third parties.
+We only collect and store email address for authentication purpose and do not share personal info to any third parties.
 
 User may request account deletion; see below.
 
