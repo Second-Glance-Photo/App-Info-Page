@@ -13,7 +13,7 @@ Users upload photos to our server for analysis.
 
 The photos are deleted immediately once the analysis is done.
 ### Analysis Result
-Results are kept for up to 3 days and is completely removed afterwards.
+Results are kept for up to 3 days and are completely removed afterwards.
 ### User Account
 Users may create account to purchase and store analysis credits.
 
