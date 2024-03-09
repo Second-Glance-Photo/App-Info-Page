@@ -1,25 +1,32 @@
 # Second Glance Photo
 
 ## About
-Second Glance Photo allows user to get additional insights into photos
+Second Glance Photo allows users to get additional insights from their photos
 
 ## Download
- - [iOS](https://apps.apple.com/app/second-glance-photo/id6472119542)
+ - [iOS (Apple App Store)](https://apps.apple.com/app/second-glance-photo/id6472119542)
  - [Android (Google Play)](https://play.google.com/store/apps/details?id=com.utoappia.secondglancephoto)
 
 ## Privacy
-Users upload photos to our server for analysis; the photos are deleted immediately once the analysis is done. The analysis result for each photo are kept for up to 3 days and is completely removed afterwards.
+### Photo
+Users upload photos to our server for analysis.
 
-Users may create account to purchase and store analysis credits; Second Glance Photo only collect and store email address for authentication purpose and are not shared to any third parties.
+The photos are deleted immediately once the analysis is done.
+### Analysis Result
+Results are kept for up to 3 days and is completely removed afterwards.
+### User Account
+Users may create account to purchase and store analysis credits.
 
-User may request account deletion; see section below.
+We only collect and store email address for authentication purpose and does not share personal info to any third parties.
+
+User may request account deletion; see below.
 
 ## Account Deletion
-Users may request account deletion inside the app in the "Account" tab.
+Users may request account deletion inside the app, under the "Account" tab.
 
-In case the user cannot find the deletion button or the deletion failed, please contact utoappia@gmail.com
+If the user could not delete the account for any reason, please contact [utoappia@gmail.com](mailto:utoappia@gmail.com?subject=Second%20Glance%20Photo%20-%20Support%20Page)
 
-Please keep in mind that upon account deletion, credits stored within that account will be gone as well.
+Upon account deletion, credits stored within that account will be gone as well.
 
 ## Contact
-utoappia@gmail.com
+[utoappia@gmail.com](mailto:utoappia@gmail.com?subject=Second%20Glance%20Photo%20-%20Support%20Page)
