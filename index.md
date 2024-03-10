@@ -1,6 +1,6 @@
 ## About
 Excite your followers EVERY TIME!🔥<br />
-Determine your best photos using Second Glance 📸<br />
+Pick Out your BEST photos using Second Glance 📸<br />
 Get deeper insights into your photos and share ONLY your BEST.😎
 
 ## Download
